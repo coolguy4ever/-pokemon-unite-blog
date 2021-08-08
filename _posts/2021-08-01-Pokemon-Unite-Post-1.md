@@ -1,3 +1,11 @@
+---
+toc: true
+layout: post
+description: A minimal example of using markdown with fastpages.
+categories: [markdown]
+title:  My First Pokemon Post
+---
+
 ## BOTW (this is my favorite game)
 
 This is my BOTW page
